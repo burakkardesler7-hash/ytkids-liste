@@ -1,0 +1,94 @@
+{
+  "surum": 1,
+  "guncelleme": "2026-10-25",
+  "kategoriler": [
+    {
+      "id": "bilim",
+      "ad": "Bilim ve Deney",
+      "ikon": "🔬",
+      "renk": "#4A90E2"
+    },
+    {
+      "id": "doga",
+      "ad": "Hayvanlar ve Doğa",
+      "ikon": "🐢",
+      "renk": "#5CB85C"
+    },
+    {
+      "id": "matematik",
+      "ad": "Matematik",
+      "ikon": "🔢",
+      "renk": "#F0AD4E"
+    },
+    {
+      "id": "masal",
+      "ad": "Masal ve Hikaye",
+      "ikon": "📖",
+      "renk": "#9B59B6"
+    },
+    {
+      "id": "turkce",
+      "ad": "Türkçe ve Okuma",
+      "ikon": "✏️",
+      "renk": "#E67E22"
+    },
+    {
+      "id": "sanat",
+      "ad": "Sanat ve El İşi",
+      "ikon": "🎨",
+      "renk": "#E74C8C"
+    },
+    {
+      "id": "muzik",
+      "ad": "Müzik",
+      "ikon": "🎵",
+      "renk": "#1ABC9C"
+    },
+    {
+      "id": "dunya",
+      "ad": "Dünya ve Tarih",
+      "ikon": "🌍",
+      "renk": "#2C7FB8"
+    },
+    {
+      "id": "ingilizce",
+      "ad": "İngilizce",
+      "ikon": "🇬🇧",
+      "renk": "#C0392B"
+    },
+    {
+      "id": "cizgi",
+      "ad": "Çizgi Film",
+      "ikon": "📺",
+      "renk": "#8E44AD"
+    }
+  ],
+  "videolar": [
+    {
+      "id": "oDh3VG6MUZM",
+      "baslik": "Oyuncak Adası | İbi 3. Sezon 8. Bölüm",
+      "kanal": "ibi",
+      "kategori": "cizgi",
+      "sure_dk": 11,
+      "yas": "7-10",
+      "dil": "tr",
+      "not": "İbi ve arkadaşları Oyuncak Adası'nda oyuncak tamircisi Konka ile tanışıp 05:00'ten itibaren Türk zeka oyunu Mangala'nın kurallarını uygulamalı olarak öğreniyor.",
+      "kaynak": "gemini",
+      "gomulebilir": null,
+      "onay": false
+    },
+    {
+      "id": "s97iHdJKId8",
+      "baslik": "Rafadan Tayfa 65. Bölüm (Rafadan Rafadan'a Karşı)",
+      "kanal": "Rafadan Tayfa",
+      "kategori": "cizgi",
+      "sure_dk": 15,
+      "yas": "7-10",
+      "dil": "tr",
+      "not": "Kayıp basketbol topunu ararken alt mahallede kendilerine çok benzeyen bir grupla karşılaşan Rafadan Tayfa'nın centilmence maç yapıp yeni dostlar kazanması anlatılıyor.",
+      "kaynak": "gemini",
+      "gomulebilir": null,
+      "onay": false
+    }
+  ]
+}
