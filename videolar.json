@@ -75,7 +75,7 @@
       "not": "İbi ve arkadaşları Oyuncak Adası'nda oyuncak tamircisi Konka ile tanışıp 05:00'ten itibaren Türk zeka oyunu Mangala'nın kurallarını uygulamalı olarak öğreniyor.",
       "kaynak": "gemini",
       "gomulebilir": null,
-      "onay": false
+      "onay": true
     },
     {
       "id": "s97iHdJKId8",
@@ -348,7 +348,7 @@
       "not": "Aziz Sancar'ın çocukluğundan Nobel Kimya Ödülü'ne uzanan çalışma azmini ve DNA onarımı keşfini hikâyeleştiren animasyon.",
       "kaynak": "gemini",
       "gomulebilir": true,
-      "onay": false
+      "onay": true
     },
     {
       "id": "gUX2x3Y_BJA",
@@ -374,7 +374,7 @@
       "not": "Örnek videodaki arı konusunu tamamlayıcı nitelikte; arıların tozlaşmadaki rolünü ve yaban arılarıyla farklarını anlatır.",
       "kaynak": "gemini",
       "gomulebilir": true,
-      "onay": false
+      "onay": true
     },
     {
       "id": "zBVteUkCFn4",
@@ -413,7 +413,7 @@
       "not": "Batı Afrika ülkesi Senegal'in pembe gölünü, baobab ağaçlarını, müzik ve yaşam kültürünü çocukların gözünden tanıtır.",
       "kaynak": "gemini",
       "gomulebilir": true,
-      "onay": false
+      "onay": true
     },
     {
       "id": "Y-_7zl2_Rsw",
@@ -452,7 +452,7 @@
       "not": "Küp, silindir ve küre gibi geometrik cisimlerin günlük hayattaki karşılıklarını Pırıl ve arkadaşlarının macerasıyla anlatır.",
       "kaynak": "gemini",
       "gomulebilir": true,
-      "onay": false
+      "onay": true
     },
     {
       "id": "7P-oevhvKlY",
@@ -504,7 +504,7 @@
       "not": "Yardımlaşma, vefa ve empati duygusunu öne çıkaran, sakin seslendirmeli üç kısa öykü ve fabl seçkisi.",
       "kaynak": "gemini",
       "gomulebilir": true,
-      "onay": false
+      "onay": true
     },
     {
       "id": "akP-rxZsfFY",
@@ -543,7 +543,7 @@
       "not": "Emek vermenin ve sorumluluk almanın önemini 'Bakarsan bağ olur, bakmazsan dağ olur' atasözünün öyküsüyle anlatan kısa animasyon.",
       "kaynak": "gemini",
       "gomulebilir": true,
-      "onay": false
+      "onay": true
     },
     {
       "id": "TLbOwAMJLQg",
@@ -569,7 +569,7 @@
       "not": "Kağıda çizilen bir 8 rakamından yola çıkarak adım adım sevimli bir arı çizimini ve boyamasını gösteren uygulamalı sanat videosu.",
       "kaynak": "gemini",
       "gomulebilir": true,
-      "onay": false
+      "onay": true
     },
     {
       "id": "Cyqycxh4qC8",
@@ -582,7 +582,7 @@
       "not": "İKSV Çocuk Kitapları serisinden; İstanbul sokaklarında farklı müzik aletlerinin seslerini ve dostluğu keşfettiren çok kaliteli bir müzikli animasyon.",
       "kaynak": "gemini",
       "gomulebilir": true,
-      "onay": false
+      "onay": true
     },
     {
       "id": "pCG1pTOh7MY",
